@@ -1,8 +1,9 @@
-# c-project
+# C-PROJECT
 
-This is a c project compilations that are use to test the level of c programming
+- This is a c project compilations that are use to test the level of `c`
+  programming.
 
-Need to make an `out` directory to keep all of the binary
+- Need to make an `out` directory to keep all of the binary.
 
 ```bash
 mkdir -p out/
