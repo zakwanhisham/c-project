@@ -5,7 +5,7 @@
 
 - Need to make an `out` directory to keep all of the binary.
 
-```shell
+```bash
 mkdir -p out/
 ```
 
