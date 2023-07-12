@@ -9,6 +9,14 @@
 mkdir -p out/
 ```
 
+- To run, just type:
+
+```bash
+./build.sh
+#OR
+bash build.sh
+```
+
 ## 1. Calculator
 
 - Reference:
