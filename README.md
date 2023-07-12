@@ -36,3 +36,11 @@ clang calculator.c -o out/calculator -lm
 - Use [raylib](https://www.raylib.com/) to render the screen.
 - Please read this [wiki](https://github.com/raysan5/raylib/wiki/Working-on-GNU-Linux) on how to install on linux.
   - Please use `cmake` to build.
+- The compilations and the flags are on the `build.sh` file
+
+## 3. Input Gesture Detection
+
+- Reference:
+  - [input gesture](https://www.raylib.com/examples.html)
+- This is a input gesture detection using `raylib`.
+- The compilations and the flags are on the `build.sh` file
