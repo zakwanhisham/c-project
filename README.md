@@ -20,3 +20,11 @@ mkdir -p out/
 clang calculator.c -o out/calculator -lm
 ./out/calculator
 ```
+
+## 2. Student Management System
+
+- Reference:
+  - https://github.com/AveyBD/student-management-system
+- Use [raylib](https://www.raylib.com/) to render the screen.
+- Please read this [wiki](https://github.com/raysan5/raylib/wiki/Working-on-GNU-Linux) on how to install on linux.
+  - Please use `cmake` to build.
